@@ -1,12 +1,11 @@
-### Hi there 👋
+### Hello, I'm Angie 👋
 
-- 🔭 I’m currently working on associates of applied science degree in Web Development.
+- 🏫 I’m currently working on associates of applied science degree in Web Development.
 - 🌱 I’m currently learning the basics of computer science.
-- 👯 I’m looking to collaborate on entertainment and feel good applications.
+- 👯 I’m looking to collaborate on entertainment and feel good applications. 
 - 🤔 I’m looking for help with coding in general.
 - 💬 Ask me about my dog Luna. 🐶
-- <image>![IMG-7612](https://user-images.githubusercontent.com/98177956/150661832-e00d6ae9-0849-4a92-8778-5753c98722e2.jpg)
-
+- <image>![IMG-7612 (1)](https://user-images.githubusercontent.com/98177956/150662147-7474a355-be9c-4960-90b2-ba1d7a03ff24.jpg) 
 - 📫 How to reach me: [Email](mailto:ramirez-angie@outlook.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I orginally started out going to college to be an account 😆
